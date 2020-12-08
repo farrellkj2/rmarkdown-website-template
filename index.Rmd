@@ -2,7 +2,7 @@
 title: "Welcome!"
 ---
 
-Text goes here.
+This site is a work in progress...
 
 <div class = "row">
 <div class = "col-md-6">

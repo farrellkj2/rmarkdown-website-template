@@ -13,7 +13,7 @@ navbar:
     - text: "CV"
       #icon: fa-file-pdf-o
       href: cv.html
-    - text: "PUblications"
+    - text: "Publications"
       href: pubs.html
   right:
     - icon: fa-envelope-o
