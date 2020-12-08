@@ -3,3 +3,28 @@ title: "Welcome!"
 ---
 
 Text goes here.
+
+<div class = "row">
+<div class = "col-md-6">
+## Left column
+
+Placeholder
+
+</div>
+
+<div class = "col-md-6">
+## Right column currently not working
+
+Placeholder
+
+</div>
+
+<br>
+
+**Back to one column**
+
+Placeholder text
+
+****
+
+Webpage devloped using [rmarkdown website template](https://github.com/privefl/rmarkdown-website-template){target="_blank"} developed by [privefl](https://github.com/privefl){target="_blank"}
