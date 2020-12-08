@@ -13,12 +13,13 @@ Placeholder
 </div>
 
 <div class = "col-md-6">
-## Right column currently not working
+## Right column
 
 Placeholder
 
 </div>
 
+<br>
 <br>
 
 **Back to one column**
